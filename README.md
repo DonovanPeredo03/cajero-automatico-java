@@ -33,6 +33,6 @@ Fue desarrollado como parte de mi aprendizaje para practicar estructuras de cont
 
 ## ✍️ Autor
 
-Samuel Donovan Peredo Jiménez – *Estudiante de Ingeniería en Ciencias Computacionales*
+Samuel gitDonovan Peredo Jiménez – *Estudiante de Ingeniería en Ciencias Computacionales*
 
 ---
